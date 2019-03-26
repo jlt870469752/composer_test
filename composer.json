@@ -1,6 +1,5 @@
 {
-    "name": "jia/composer_test",
-    "description": "just for test",
+    "name": "jia/composer_test_jia",
     "require": {
         "php": "^7.1"
     },
