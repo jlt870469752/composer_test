@@ -1,0 +1,13 @@
+{
+    "name": "jia/composer_test",
+    "description": "just for test",
+    "require": {
+        "php": "^7.1"
+    },
+    "authors": [
+        {
+            "name": "jialeiting",
+            "email": "jialeiting@huanqiu.com"
+        }
+    ]
+}
